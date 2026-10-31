@@ -5,3 +5,5 @@
 2026-06-18 13:21:23.249 | --- Cam 0 (RealSense) Node Started ---
 2026-06-18 13:21:28.016 | --- Cam 1 (Logitech) Node Started ---
 2026-06-18 13:47:43.080 | Cam 1 - ID: 929
+2026-08-05 18:45:00.530 | --- Cam 0 (RealSense) Node Started ---
+2026-08-05 18:45:07.242 | --- Cam 0 (RealSense) Node Started ---
