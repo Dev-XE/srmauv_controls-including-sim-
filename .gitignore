@@ -5,3 +5,5 @@ log/
 .pio/
 __pycache__/
 *.py[cod]
+
+.vscode/
